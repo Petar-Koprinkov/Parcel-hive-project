@@ -1,0 +1,7 @@
+1. Run the database from file "database.py".
+2. Run the server from file "web_server.py".
+3. Run the main application from file "app.py".
+4. When you run the application, the camera turns on. After that when you click with the left button of the mouse
+somewhere on the screen, the console prints message that the photo is made and its coordinates.
+5. After that stop the application and the photos will appear in the folder "static", where you can see them.
+6. The date of the coordinates of every photos will be stored in the file "photo_information.db".
